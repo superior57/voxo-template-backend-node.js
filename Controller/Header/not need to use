@@ -1,0 +1,91 @@
+ {
+                "rows": [
+                    {
+                        "title": "Email Template",
+                        "active": false,
+                        "children": [
+                            {
+                                "path": "#",
+                                "title": "Abandonment Email",
+                                "type": "link"
+                            },
+                            {
+                                "path": "#",
+                                "title": "Black Friday",
+                                "type": "link"
+                            },
+                            {
+                                "path": "#",
+                                "title": "Email Template 1",
+                                "type": "link"
+                            },
+                            {
+                                "path": "#",
+                                "title": "Email Template 2",
+                                "type": "link"
+                            },
+                            {
+                                "path": "#",
+                                "title": "Offer Template",
+                                "type": "link"
+                            },
+                            {
+                                "path": "#",
+                                "title": "Order Success 1",
+                                "type": "link"
+                            },
+                            {
+                                "path": "#",
+                                "title": "Order Success 2",
+                                "type": "link"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "rows": [
+                    {
+                        "title": "Email Template",
+                        "active": false,
+                        "children": [
+                            {
+                                "path": "#",
+                                "title": "Product Review",
+                                "type": "link"
+                            },
+                            {
+                                "path": "#",
+                                "title": "Reset Password",
+                                "type": "link"
+                            },
+                            {
+                                "path": "#",
+                                "title": "Welcome Template",
+                                "type": "link"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Invoice Template",
+                        "active": false,
+                        "children": [
+                            {
+                                "path": "#",
+                                "title": "Invoice 1 Template",
+                                "type": "link"
+                            },
+                            {
+                                "path": "#",
+                                "title": "Invoice 2 Template",
+                                "type": "link"
+                            },
+                            {
+                                "path": "#",
+                                "title": "Invoice 3 Template",
+                                "type": "link"
+                            }
+                        ]
+                    }
+                ]
+            },
