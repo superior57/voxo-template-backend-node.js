@@ -41,7 +41,7 @@ app.use('/api', router)
 
 // Not Found common Error
 app.get('*', function (req, res, next) {
-    return res.status(404).json({ error: { message: "Not found", code: 404 } });
+    return res.status(200).json({ message: 'Listening api' });
 });
 
 app.listen(port, () => {
